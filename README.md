@@ -1,3 +1,6 @@
+VIEW THE PROJECT HERE: https://delightful-lily-9dcd90.netlify.app/
+
+
 One item of the menu hard-coded is in the HTML to create the container of other menu items. 
 The function displayMenu uses the hard-coded HTML, .map() through the menu array and assigns into it corresponding variables from the menu array. The items are joined as one big string. The string is assigned into a variable which then dispays the variable using innerHTML.
 
